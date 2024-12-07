@@ -1,7 +1,7 @@
 <template>
         <div class="MainNavBar" ref="navbar" >
             <div class="sectionBar">
-            <div><img src="/images/New Aegis Logo 1.png"></div>
+            <div><img src="/public/New Aegis Logo 1.png"></div>
             <div class="NavBar">
             <div><a href="#Home">Home</a></div>    
             <div><a href="#AboutUs" @click="scrolling">About Us</a></div>    
